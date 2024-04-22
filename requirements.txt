@@ -2,3 +2,4 @@ transformers
 sentencepiece
 torch
 tensorflow
+ollama
