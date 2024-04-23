@@ -17,7 +17,8 @@ Feel free to join me :)
 
 ## Extensions
 There are some open source extensions to IDE which can help you to use this AI pair programmer:
-- [llm-vscode](https://github.com/huggingface/llm-vscode)
+- [llm-vscode](https://github.com/huggingface/llm-vscode): Only for VSCode.
+- [Continue](https://github.com/continuedev/continue?tab=readme-ov-file): Support VSCode and JetBrains.
 
 ## References
 - [Personal Copilot: Train Your Own Coding Assistant](https://huggingface.co/blog/personal-copilot)
